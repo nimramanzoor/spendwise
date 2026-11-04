@@ -238,6 +238,7 @@ To deploy your own web build, connect the repository to Vercel and configure the
 ## Links
 
 - **Live Demo:** https://spendwise-five-gold.vercel.app/
+- **Video Demo** https://docs.google.com/videos/d/1MtegPleHUmodR9LNnp3WGty1y5F_BaYxd036IaAIghE/play
 - **GitHub Repository:** https://github.com/nimramanzoor/spendwise
 
 ---
